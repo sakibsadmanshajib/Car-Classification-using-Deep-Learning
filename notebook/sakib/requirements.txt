@@ -1,6 +1,5 @@
-torch
-torchvision
+scipy
+pandas
 numpy
 matplotlib
-tqdm
-scipy
+opencv-python
