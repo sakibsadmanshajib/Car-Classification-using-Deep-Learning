@@ -1,5 +1,5 @@
-scipy
-pandas
+torch
+torchvision
 numpy
 matplotlib
-opencv-python
+Pillow
