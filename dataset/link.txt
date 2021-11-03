@@ -1,0 +1,2 @@
+direct - https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+foldered - https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder
